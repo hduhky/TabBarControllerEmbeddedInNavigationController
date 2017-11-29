@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ViewController3.h
 //  iPhoneXTest
 //
 //  Created by 黄珂耀 on 2017/11/29.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ViewController3 : UIViewController
 
 @end
-
